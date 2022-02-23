@@ -20,6 +20,6 @@ public class CalculatorExec {
 	
 	public static void multiply(int a, int b) {
 		int prod = a*b;
-		System.out.println("Product is :"+prod);
+		System.out.println("Product is : "+prod);
 	}
 }
