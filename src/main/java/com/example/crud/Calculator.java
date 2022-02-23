@@ -1,5 +1,5 @@
 
-package com.demo.calculator;
+package com.example.crud;
 
 public class Calculator {
 
